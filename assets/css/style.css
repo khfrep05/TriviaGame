@@ -1,0 +1,38 @@
+footer {
+	background-color: #001f3f; 
+	text-align: center; 
+	color: white;
+ 	position: absolute; 
+ 	border-top: 5px solid black;
+ 	right: 0;
+ 	bottom: 0;
+ 	left: 0;
+  	padding: 1rem 0;
+  }
+
+  .wrap {
+  	text-align: center;
+  	color: #001f3f;
+  	font-weight: bold;
+  	font-size: 22px;
+  	background-color: mediumaquamarine;
+  	min-height: 586px;
+  	overflow: hidden;
+  }
+
+  h1 {
+  	text-align: center;
+  	font-weight: bold;
+  	font-size: 35px;	
+  	color: white;
+  	padding: 14px;
+  }
+
+  header {
+  	height: 60px;
+  	background-color: #001f3f;
+  }
+
+  .Time {
+  	float: left;
+  }
